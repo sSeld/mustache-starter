@@ -1,0 +1,12 @@
+{
+  "templates": [
+    {
+      "name": "default",
+      "output": "ps1",
+      "view": {
+        "title": "Hello World",
+        "list": [ "one", "two"]
+      }
+    }
+  ]
+}
